@@ -6,7 +6,7 @@ Quiz Crackers
 
 
 ### `Live Link`
-
+https://prismatic-biscuit-f537fb.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
