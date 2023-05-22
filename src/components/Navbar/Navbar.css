@@ -1,4 +1,39 @@
 .web-logo {
     width: 130px;
     height: 130px;
+    margin-top: 10px;
+    margin-bottom: 7px;
+
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: aqua;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-right: 60px;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.navbar a:hover {
+    color: #fb5f66;
+}
+
+.active {
+    background-color: #ffffffe1;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.active:hover {
+    color: black;
 }
